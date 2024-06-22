@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage": "https://Mahaveer143s.github.io/NEWS-App",
   "private": true,
-  "homepage": "https://Mahaveer143s.github.io/NEWS-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
